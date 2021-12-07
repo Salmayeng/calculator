@@ -1,0 +1,35 @@
+.HI{
+	background-color: gray;
+	height: 10vh;
+	text-align: right;
+	font-weight: 900;
+	color: white;
+	border:1px gray solid;
+	padding-top: 3vh;
+	
+
+	
+
+}.ac{width: 25%;
+		height: 10vh;
+		background-color: white;
+		font-weight: 900;
+		text-align: center;
+		border:1px gray solid;
+		background-color: lightgray;
+
+		
+		
+
+}
+.ending{
+	background-color: yellow;
+	height: 10vh;
+	font-weight: 900;
+	text-align: center;
+	border:1px gray solid;
+	color: white;
+	
+	
+
+}
